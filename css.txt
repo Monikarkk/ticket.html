@@ -1,0 +1,10 @@
+body {
+  background-image: url('C:\Users\monik\Downloads\8300288db359ebb374a1a540b2a59e43.jpg'); /* Replace with your own image link */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
